@@ -3,3 +3,6 @@ pandas
 numpy
 scikit-learn
 textblob
+pattern
+seaborn
+matplotlib

@@ -6,3 +6,6 @@ textblob
 pattern
 seaborn
 matplotlib
+wordcloud
+python-dateutil
+
